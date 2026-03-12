@@ -1,16 +1,149 @@
-<h1 align="center">Hi 👋, I'm Haydar Zhafran,</h1>
-<h3 align="center">I'm still learning</h3>
+# Hi there 👋😁
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/haydr_zaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haydr_zaf" height="30" width="40" /></a>
-</p>
+Hello! I'm **Zhafrnn**    
+I'm a student who is currently learning programming and exploring the world of software development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Right now I am focusing on **Mobile App Development** using Flutter and Dart. I enjoy building small applications to improve my programming skills and understand how real applications are made.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhafrnn&show_icons=true&locale=en&layout=compact" alt="zhafrnn" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhafrnn&show_icons=true&locale=en" alt="zhafrnn" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhafrnn&" alt="zhafrnn" /></p>
+- 🎓 Student who loves learning technology
+- 📱 Currently learning **Flutter** for mobile development
+- 💻 Practicing programming by building small projects
+- 📚 Learning programming from online courses
+- 🌱 Always trying to improve my coding skills
+
+---
+
+## 🛠 Skills
+
+### Programming
+- Dart
+- Basic Programming Concepts
+
+### Frameworks
+- Flutter
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Android Studio
+
+---
+
+## 📂 Current Projects
+
+Here are some projects and features that I am currently working on while developing my **Restaurant App** using Flutter:
+
+ #### 🍔 Restaurant App
+
+A mobile application built with Flutter that allows users to explore restaurants and view their details.
+
+---
+
+- #### 🧾 Restaurant List UI
+
+Display a list of restaurants using custom **Restaurant Card widgets** with:
+* Restaurant name
+* Category
+* Price range
+* Rating
+* Restaurant image
+
+---
+
+- #### ⭐ Restaurant Detail View
+
+A screen that shows detailed information about a selected restaurant including its information and layout structure.
+
+---
+
+- #### 🧩 Reusable Widgets
+
+Creating reusable Flutter widgets to keep the UI clean and maintainable, such as:
+
+* RestaurantCard
+* Custom UI components
+* Layout structures
+
+---
+
+- #### 👤 Profile & Account UI
+
+A user profile screen where users can view and manage their account information.
+
+---
+
+- #### ✏️ Edit Profile Screen
+
+A form that allows users to update their profile data using **Flutter Form and TextEditingController**.
+
+---
+
+- #### 📍 Address Management
+
+An address screen where users can:
+
+* View saved address
+* Edit address information
+* Store user location data
+
+---
+
+- #### 💾 Local Data Handling
+
+Managing simple user data such as:
+
+* User profile
+* Address
+* Saved information
+
+---
+
+- #### 🧭 Navigation System
+
+Implementing navigation between screens such as:
+
+* Restaurant list
+* Restaurant details
+* Profile screen
+* Address screen
+
+---
+
+- #### 📱 Mobile UI Layout Practice
+
+Practicing mobile interface design using:
+
+* Material Design components
+* Layout widgets
+* Responsive UI structure
+
+---
+
+- #### 😔 But there is no backend yet
+
+
+---
+ 
+These projects help me improve my **Flutter development skills**, especially in building user interfaces, managing widgets, and structuring a mobile application.
+
+---
+
+
+## 🎯 Goals
+
+My current goals in learning programming:
+
+- Learn Flutter more deeply
+- Build more mobile applications
+- Understand clean code and good project structure
+- Share my projects on GitHub
+
+---
+
+
+## ⭐ Thank you for visiting my profile!⭐
