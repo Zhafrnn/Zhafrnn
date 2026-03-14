@@ -19,21 +19,27 @@ Right now I am focusing on **Mobile App Development** using Flutter and Dart. I 
 
 ## 🛠 Skills
 
-### Programming
+### ⌨️ Programming
 - Dart
 - Basic Programming Concepts
 
-### - Frameworks
+###  Frameworks
 - Flutter
 
-### - Tools
+###  Tools
 - Git
 - GitHub
 - Visual Studio Code
 - Android Studio
 
-### Design
+### 🎨 Design
+- UI Design
+- Basic Mobile App Layout
+- Wireframing
+- Material Design Principles
 
+###  Tools
+- Figma
 
 ---
 
